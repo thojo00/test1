@@ -17,7 +17,7 @@
         <div class="row">
             <div class="col-md-8">
                 <div class="well">
-                    <form action="" method="post">
+                    <form action="" method="postProjj">
                         <div class="form-group">
                             <label for="exampleInputEmail1">Email address</label>
                             <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Email">
